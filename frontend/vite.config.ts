@@ -7,8 +7,8 @@ export default defineConfig({
   server: {
     fs: {
       allow: [
-        'D:/Project/github/new-ruman-v2/frontend',
-        'D:/Project/github/new-ruman-v2/node_modules/@fortawesome/fontawesome-free/webfonts'
+        './',
+        './node_modules/@fortawesome/fontawesome-free/webfonts'
       ]
     }
   }
